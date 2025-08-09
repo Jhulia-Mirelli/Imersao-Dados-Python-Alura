@@ -48,7 +48,7 @@ Este projeto foi desenvolvido durante meu processo de aprendizado na plataforma 
 ## 🌐 Acesso ao Dashboard
 
 Você pode acessar o dashboard hospedado clicando aqui:  
-[🔗 Link do Dashboard no Streamlit](https://dashboard-jhulia-mirelli.streamlit.app/)
+🔗[Link do Dashboard no Streamlit](https://dashboard-jhulia-mirelli.streamlit.app/)
 
 ---
 
