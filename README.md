@@ -1,6 +1,6 @@
 # 📊 Imersão dados com Python - Alura
 
-Este projeto foi desenvolvido durante meu processo de aprendizado na plataforma **Alura**, onde tive acesso a aulas online e práticas guiadas por profissionais que auxiliaram no passo a passo de como:
+Este projeto foi desenvolvido durante meu processo de aprendizado na plataforma [Alura](https://www.alura.com.br/) , onde tive acesso a aulas online e práticas guiadas por profissionais que auxiliaram no passo a passo de como:
 
 - Começar a manipular dados
 - Criar visualizações interativas
@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante meu processo de aprendizado na plataforma 
 
 ---
 
-## 👩‍💻Processo de Aprendizado
+## 👩‍💻 Processo de Aprendizado
 
 1. **Manipulação de Dados**  
    - Limpeza e organização utilizando **Pandas**
@@ -18,12 +18,16 @@ Este projeto foi desenvolvido durante meu processo de aprendizado na plataforma 
 2. **Visualização de Dados**  
    - Criação de gráficos com **Matplotlib** e **Seaborn**
    - Interpretação e comparação de métricas
+     
+3. **Desenvolvimento do Código**  
+   - Uso do **VS Code** e **Google Colab** para escrever e testar códigos  
+   - Auxílio da IA **Gemini** do Google no Colab para suporte na programação  
 
-3. **Criação do Dashboard**  
+4. **Criação do Dashboard**  
    - Uso do **Streamlit** para criar um painel interativo
    - Integração de gráficos e tabelas dinâmicas
 
-4. **Hospedagem**  
+5. **Hospedagem**  
    - Publicação do dashboard na **plataforma Streamlit Cloud**
    - Disponibilização online para acesso público
 
