@@ -40,6 +40,8 @@ Este projeto foi desenvolvido durante meu processo de aprendizado na plataforma 
 - Matplotlib
 - Seaborn
 - Streamlit
+- VS Code
+- Google Colab
 
 ---
 
